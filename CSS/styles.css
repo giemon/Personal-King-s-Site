@@ -1,0 +1,142 @@
+a {
+  text-decoration: none;
+  color: #f45905;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: #fff;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.25rem;
+}
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 5.625rem;
+  color: #f45905;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #f45905;
+  padding: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #2a1a5e;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #fb9224;
+  border-width: 2px;
+  width: 6%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #fb9224;
+  padding: 100px;
+}
+
+.dragon1-pic {
+  width: 5%;
+  position: absolute;
+  top: 50px;
+  right: 350px;
+}
+
+.pro-word {
+  text-decoration: underline;
+}
+
+.dragon2-pic {
+  width: 8%;
+  position: absolute;
+  bottom: 150px;
+  left: 400px;
+}
+
+.dragonProfile-pic {
+  width: 30%;
+  border-color: #2a1a5e;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.profile {
+  width: 30%;
+  margin: auto;
+}
+
+.skills {
+  background-color: #fbe555;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 200px;
+  text-align: left;
+}
+
+.programming-pic {
+  width: 30%;
+  float: left;
+  margin-right: 40px;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.philosophy-pic {
+  width: 30%;
+  float: right;
+  margin-left: 40px;
+}
+
+.contact-me-text {
+  margin: 40px auto 60px;
+  width: 33%;
+}
+
+.bottom-container {
+  background-color: #fb9224;
+  padding: 50px 0 20px;
+  margin-top: 80px;
+}
+
+.btn {
+  background-color: #fb9224;
+  color: white;
+  padding: 8px;
+  border-radius: 5%;
+  font-size: 1rem;
+}
+
+.btn:hover {
+  background-color: #2a1a5e;
+}
+
+.copyright {
+  color: #ebf5df;
+  font-size: 0.8rem;
+  padding: 10px 0;
+}
